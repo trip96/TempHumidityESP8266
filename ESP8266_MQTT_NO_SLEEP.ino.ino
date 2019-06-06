@@ -8,8 +8,8 @@
 #define DHTPIN D4
 
 // WiFi Credentials
-const char* ssid     = "Willow";
-const char* password = "b1gbxf34";
+const char* ssid     = "YOUR_OWN_SSID";
+const char* password = "PASSWORD_FOR_NETWORK";
 
 // MQTT PubSub Initialize
 WiFiClient espClient;
